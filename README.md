@@ -6,5 +6,5 @@ LDA is used to classify text in a document to a particular topic. It builds a to
 * It also assumes documents are produced from a mixture of topics. Those topics then generate words based on their probability distribution. 
 
 
-## dataset <a href = "https://github.com/franciscadias/data/blob/master/abcnews-date-text.csv"> dataset </a>
+ <a href = "https://github.com/franciscadias/data/blob/master/abcnews-date-text.csv"> dataset </a>
 
